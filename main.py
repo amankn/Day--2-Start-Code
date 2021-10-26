@@ -24,7 +24,10 @@ print(False)
 
 #TypeError, Type Conversion 
 
-num_char = len(input("What is your name?"))
-print("Your name has " + num_char + " characters.")
+num_char = len(input("What is your name : "))
+
+print(type(num_char))
+
+print("Your name has " + str(num_char) + " characters.")
 
 
