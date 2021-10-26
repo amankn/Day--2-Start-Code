@@ -14,5 +14,12 @@ print(123 + 345)
 # How to put commas in large Integers - python we use underscores
 print(3_45_000)
 
+#FloatingPoint
+print(3.124)
+
+#Boolean 
+
+print(True)
+print(False)
 
 
