@@ -1,3 +1,4 @@
 #Data Types
 
-print(len(12345))
+#String
+print("Aman"[0])
