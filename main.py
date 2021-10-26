@@ -22,4 +22,9 @@ print(3.124)
 print(True)
 print(False)
 
+#TypeError, Type Conversion 
+
+num_char = len(input("What is your name?"))
+print("Your name has " + num_char + " characters.")
+
 
