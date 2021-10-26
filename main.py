@@ -28,6 +28,20 @@ num_char = len(input("What is your name : "))
 
 print(type(num_char))
 
+# Number to String
 print("Your name has " + str(num_char) + " characters.")
+
+# Number 
+a = 123
+print(type(a))
+print(str(a))
+
+a = float(123)
+
+print(70 + float("1000.45"))
+
+print(str(70) + str(100))
+
+
 
 
